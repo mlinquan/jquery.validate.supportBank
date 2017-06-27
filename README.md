@@ -3,7 +3,7 @@
 数据更新时间：2016年5月7日
 
 ## How to use
-···js
+```js
 $(form).eq(0).validate({
   submitHandler: function(form) {
     
@@ -63,4 +63,4 @@ $(form).eq(0).validate({
     }
   }
 });
-···
+```
